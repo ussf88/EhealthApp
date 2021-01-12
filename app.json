@@ -1,0 +1,12 @@
+{
+  "name": "EhealthApp",
+  "displayName": "EhealthApp",
+  "expo": {
+    "name": "EhealthApp",
+    "slug": "EhealthApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
